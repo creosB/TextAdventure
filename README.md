@@ -6,6 +6,7 @@
 <li class="has-line-data" data-line-start="8" data-line-end="9">Oyun içinde etkileşime girebileceğiniz veya kullanabileceğiniz objeler bulunmaktadır.</li>
 <li class="has-line-data" data-line-start="9" data-line-end="10">Oyun içinde konuşabileceğiniz kişiler bulunmaktadır.</li>
 <li class="has-line-data" data-line-start="10" data-line-end="11">Go, Examine, Get, Give, Use, Inventory, TalkTo, Say, Help, Read gibi komutlar bulunuyor.</li>
+<li class="has-line-data" data-line-start="11" data-line-end="12">Kaynak kodu ve build edilmiş hali bulunuyor.</li> 
 </ul>
 <hr>
 <h1 class="code-line" data-line-start=12 data-line-end=13 ><a id="Resimler_12"></a>Resimler</h1>
